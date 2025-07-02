@@ -1,4 +1,4 @@
-#Predictive Analytics Projects
+# Predictive Analytics Projects
 This repository showcases a collection of Predictive Analytics projects developed as part of Data Science practice using Machine Learning models. Each project is designed to solve real-world problems by applying supervised learning techniques to make informed predictions based on historical data.
 
 The projects cover various domains including customer churn prediction, student admission forecasting, and fraud detection, highlighting the complete workflow from data preprocessing and exploratory data analysis (EDA) to model selection, evaluation, and deployment-ready outputs.
