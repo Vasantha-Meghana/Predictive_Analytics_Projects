@@ -10,4 +10,4 @@ Key features:
 - Visual insights through EDA and result plots
 - Best-fit model chosen based on accuracy and real-world applicability
 
-These projects aim to demonstrate practical skills in using Machine Learning for predictive tasks and can serve as strong examples for portfolios, case studies, or academic purposes.
+These projects aim to demonstrate practical skills in using Machine Learning for predictive tasks.
