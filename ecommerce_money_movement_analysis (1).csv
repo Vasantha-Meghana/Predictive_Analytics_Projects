@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Category,Price,Quantity,TotalAmount,PaymentMethod,TransactionDate
+1001,C001,Smartphone,Electronics,20000,1,20000,Credit Card,2025-07-01
+1002,C002,Headphones,Electronics,3000,2,6000,PayPal,2025-07-01
+1003,C003,Shoes,Fashion,2500,1,2500,Debit Card,2025-07-02
+1004,C001,Laptop,Electronics,50000,1,50000,Credit Card,2025-07-03
+1005,C004,T-shirt,Fashion,700,3,2100,UPI,2025-07-03
+1006,C005,Cookware,Home,1500,2,3000,Cash,2025-07-04
+1007,C002,Mobile Cover,Accessories,500,2,1000,UPI,2025-07-04
+1008,C006,Tablet,Electronics,15000,1,15000,Credit Card,2025-07-05
+1009,C007,Jeans,Fashion,1800,2,3600,Debit Card,2025-07-05
+1010,C008,Blender,Home,2000,1,2000,PayPal,2025-07-06
